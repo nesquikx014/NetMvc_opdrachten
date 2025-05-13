@@ -1,0 +1,15 @@
+C:\repo\NetMvc_opdrachten\eersteproject\bin\Debug\net8.0\eersteproject.exe
+C:\repo\NetMvc_opdrachten\eersteproject\bin\Debug\net8.0\eersteproject.deps.json
+C:\repo\NetMvc_opdrachten\eersteproject\bin\Debug\net8.0\eersteproject.runtimeconfig.json
+C:\repo\NetMvc_opdrachten\eersteproject\bin\Debug\net8.0\eersteproject.dll
+C:\repo\NetMvc_opdrachten\eersteproject\bin\Debug\net8.0\eersteproject.pdb
+C:\repo\NetMvc_opdrachten\eersteproject\obj\Debug\net8.0\eersteproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\NetMvc_opdrachten\eersteproject\obj\Debug\net8.0\eersteproject.AssemblyInfoInputs.cache
+C:\repo\NetMvc_opdrachten\eersteproject\obj\Debug\net8.0\eersteproject.AssemblyInfo.cs
+C:\repo\NetMvc_opdrachten\eersteproject\obj\Debug\net8.0\eersteproject.csproj.CoreCompileInputs.cache
+C:\repo\NetMvc_opdrachten\eersteproject\obj\Debug\net8.0\eersteproject.sourcelink.json
+C:\repo\NetMvc_opdrachten\eersteproject\obj\Debug\net8.0\eersteproject.dll
+C:\repo\NetMvc_opdrachten\eersteproject\obj\Debug\net8.0\refint\eersteproject.dll
+C:\repo\NetMvc_opdrachten\eersteproject\obj\Debug\net8.0\eersteproject.pdb
+C:\repo\NetMvc_opdrachten\eersteproject\obj\Debug\net8.0\eersteproject.genruntimeconfig.cache
+C:\repo\NetMvc_opdrachten\eersteproject\obj\Debug\net8.0\ref\eersteproject.dll
